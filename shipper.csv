@@ -1,0 +1,11 @@
+shipper_id,shipper_name,shipper_email,shipper_pincode
+1,"Thomas, West and Huff",twh@example.net,22141
+2,"Sullivan, Larsen and Hill",slh@example.net,43410
+3,"Savage, Mckee and Rice",smr@example.net,71421
+4,Jenkins Group,jenkins_group@example.net,12437
+5,Nguyen LLC,nguyen_llc@example.net,6699
+6,Davis-Orr,davis_orr@example.net,18452
+7,"Calderon, Ramirez and Ramsey",crr@example.net,99022
+8,Rose Ltd,rose_ltd@example.net,57556
+9,"Martin, Garza and Johnson",mgj@example.net,1425
+10,Rogers-Golden,rogers_golden@example.net,59214
